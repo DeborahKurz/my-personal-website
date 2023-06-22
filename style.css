@@ -3,3 +3,52 @@ body {
     background-size: cover;
     background-attachment: fixed;
 }
+
+h1 {
+    text-align: center;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    padding-top: 20px;
+    padding-bottom: 50px;
+}
+
+h2 {
+    padding-left: 10px;
+    padding-right: 10px;
+    width: 310px;
+    text-align: center;
+    background-color:#fff;
+}
+
+section#leftBar,
+h4 {
+    padding-left: 10px;
+    padding-right: 10px;
+    width: 300px;
+    text-align: left;
+    background-color: #fff;
+}
+
+h3 {
+    text-align: center;
+}
+
+section#details,
+div {
+  float: left;
+}
+
+div {
+  width: 25%;
+  background-color: #fff;
+}
+
+section#details,
+p {
+  width: 100%;
+  text-align: center;
+}
+
+section#details,
+a {
+  background-color: #fff;
+}
