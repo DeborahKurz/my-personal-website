@@ -19,13 +19,10 @@ h2 {
     background-color:#fff;
 }
 
-section#leftBar,
-h4 {
-    padding-left: 10px;
-    padding-right: 10px;
-    width: 300px;
-    text-align: left;
-    background-color: #fff;
+h5 {
+  text-align: center;
+  font-size: 30px;
+  padding-top: 50;
 }
 
 h3 {
@@ -35,6 +32,9 @@ h3 {
 section#details,
 div {
   float: left;
+  position: fixed;
+  bottom: 0;
+  
 }
 
 div {
@@ -51,4 +51,14 @@ p {
 section#details,
 a {
   background-color: #fff;
+}
+
+section#leftBar,
+div {
+  padding-left: 10px;
+  padding-right: 10px;
+  padding-bottom: 200px;
+  width: 310px;
+  text-align: center;
+  background-color:#fff;
 }
