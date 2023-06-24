@@ -9,14 +9,16 @@ h1 {
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     padding-top: 20px;
     padding-bottom: 50px;
+    background-color:hsla(0, 0%, 100%, 0.831);
 }
 
 h2 {
     width: 310px;
     text-align: center;
-    background-color:#fff;
+    background-color:hsla(0, 0%, 100%, 0.831);
     padding-top: 50px;
     padding-bottom: 50px;
+    margin-left: 50px;
 }
 
 h3 {
@@ -50,14 +52,4 @@ p {
 section#details,
 a {
   background-color: #fff;
-}
-
-section#leftBar,
-div {
-  padding-left: 10px;
-  padding-right: 10px;
-  padding-bottom: 200px;
-  width: 310px;
-  text-align: center;
-  background-color:#fff;
 }
